@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-08T14:04:54 IST" name="Default suite" finished-at="2025-03-08T14:05:39 IST" duration-ms="44818">
+    <groups>
+    </groups>
+    <test started-at="2025-03-08T14:04:54 IST" name="Default test" finished-at="2025-03-08T14:05:39 IST" duration-ms="44818">
+      <class name="Testcases.VerifyPage1FB">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:04:58 IST" name="setUp" finished-at="2025-03-08T14:05:06 IST" duration-ms="8444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:06 IST" name="loginTc" data-provider="info" finished-at="2025-03-08T14:05:07 IST" duration-ms="1078" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[usnm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTc -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:07 IST" name="tearDown" finished-at="2025-03-08T14:05:10 IST" duration-ms="2279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTc status=SUCCESS method=VerifyPage1FB.loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:10 IST" name="setUp" finished-at="2025-03-08T14:05:14 IST" duration-ms="4740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:14 IST" name="loginTc" data-provider="info" finished-at="2025-03-08T14:05:16 IST" duration-ms="1365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sedhu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sed136]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTc -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:16 IST" name="tearDown" finished-at="2025-03-08T14:05:17 IST" duration-ms="1670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTc status=SUCCESS method=VerifyPage1FB.loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:17 IST" name="setUp" finished-at="2025-03-08T14:05:22 IST" duration-ms="4494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:22 IST" name="loginTc" data-provider="info" finished-at="2025-03-08T14:05:23 IST" duration-ms="1256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTc -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:23 IST" name="tearDown" finished-at="2025-03-08T14:05:25 IST" duration-ms="1606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTc status=SUCCESS method=VerifyPage1FB.loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:25 IST" name="setUp" finished-at="2025-03-08T14:05:29 IST" duration-ms="4545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:29 IST" name="loginTc" data-provider="info" finished-at="2025-03-08T14:05:30 IST" duration-ms="1102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prsanna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rps321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTc -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:30 IST" name="tearDown" finished-at="2025-03-08T14:05:31 IST" duration-ms="930" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTc status=SUCCESS method=VerifyPage1FB.loginTc(java.lang.String,java.lang.String)[pri:1, instance:Testcases.VerifyPage1FB@28701274] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:31 IST" name="setUp" finished-at="2025-03-08T14:05:36 IST" duration-ms="4438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyForgetPwd()[pri:2, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:36 IST" name="verifyForgetPwd" finished-at="2025-03-08T14:05:38 IST" duration-ms="1950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgetPwd -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyPage1FB@28701274]" started-at="2025-03-08T14:05:38 IST" name="tearDown" finished-at="2025-03-08T14:05:39 IST" duration-ms="938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgetPwd status=SUCCESS method=VerifyPage1FB.verifyForgetPwd()[pri:2, instance:Testcases.VerifyPage1FB@28701274] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.VerifyPage1FB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
